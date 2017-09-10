@@ -1,7 +1,13 @@
 # 后台管理系统
 
-## 运行
-	make dev
+## Development Setup
+```bash
+# install dependencies
+$ npm install
 
-## 打包
-	make build
+# dev mode
+$ make dev
+
+# build
+$ make build
+```
